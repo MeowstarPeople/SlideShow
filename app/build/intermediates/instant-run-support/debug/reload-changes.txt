@@ -1,0 +1,8 @@
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\miaoxingren\slideshow\activity\MainActivity$1$override.class
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\miaoxingren\slideshow\activity\MainActivity$GetListTask$override.class
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\miaoxingren\slideshow\activity\MainActivity$SlideShowTask$override.class
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\miaoxingren\slideshow\activity\MainActivity$override.class
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\miaoxingren\slideshow\activity\MainActivity$MyPageChangeListener$override.class
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\miaoxingren\slideshow\activity\MainActivity$MyPagerAdapter$1$override.class
+CHANGED,D:\SlideShow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\miaoxingren\slideshow\activity\MainActivity$MyPagerAdapter$override.class

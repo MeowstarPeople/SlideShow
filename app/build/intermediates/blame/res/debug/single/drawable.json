@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\SlideShow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_focus.xml",
+        "source": "D:\\SlideShow\\app\\src\\main\\res\\drawable\\dot_focus.xml"
+    },
+    {
+        "merged": "D:\\SlideShow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_blur.xml",
+        "source": "D:\\SlideShow\\app\\src\\main\\res\\drawable\\dot_blur.xml"
+    }
+]

@@ -10,7 +10,7 @@
         android:targetSdkVersion="22" />
 
     <application
-        android:name="com.miaoxingren.slideshow.application.SlideApplication"
+        android:name=".application.App"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
